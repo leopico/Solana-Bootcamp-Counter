@@ -1,7 +1,5 @@
 This is a [Counter pj](https://github.com/leopico/Solana-Bootcamp-Counter.git) project
 
-![(Test for counter)](https://ibb.co/MMzZLfY)
-
 What I learned from this course:
 
 - How to set up for account
